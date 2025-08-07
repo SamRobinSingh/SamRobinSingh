@@ -7,10 +7,12 @@
 
 ### 💡 About Me
 
-🎓 B.Tech in **Artificial Intelligence & Data Science**  
-💻 Passionate about **AI/ML**, **Computer Vision**, **LLMs**, **Embedded AI**, and **Smart Systems**  
-🧠 Focused on building real-world AI solutions: CV, CNNs, RNNs, Speech NLP, OCR  
-📨 Reach me: ss8764628@gmail.com
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=800&lines=AI+%26+Data+Science+Engineer;Computer+Vision+%7C+LLMs+%7C+Smart+AI+Systems;Building+AI-powered+Futures+One+Model+at+a+Time" alt="Animated Typing SVG" /> </p>
+🎓 B.Tech in Artificial Intelligence & Data Science
+💻 Passionate about:
+    🚀 AI/ML, 🤖 Computer Vision, 🧠 LLMs, 🛰 Embedded AI, 🔧 Smart Systems
+🧠 Skilled in building real-world AI apps using:
+    🎯 CNNs, 🔁 RNNs, 🗣 Speech NLP, 🧾 OCR, 📦 Model Deployment
 
 ---
 
