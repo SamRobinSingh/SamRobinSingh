@@ -9,10 +9,8 @@
 
 🎓 B.Tech in **Artificial Intelligence & Data Science**  
 💻 Passionate about **AI/ML**, **Computer Vision**, **LLMs**, **Embedded AI**, and **Smart Systems**  
-🚀 Working on Smart India Hackathon 2024 – RailMadad Grievance System (AI + NLP)  
-🧠 Focused on building real-world AI solutions: YOLOv8, CNNs, RNNs, Speech NLP, OCR  
-🌍 From **Tirunelveli, Tamil Nadu, India**  
-📨 Reach me: samrobinsinghe@gmail.com
+🧠 Focused on building real-world AI solutions: CV, CNNs, RNNs, Speech NLP, OCR  
+📨 Reach me: ss8764628@gmail.com
 
 ---
 
@@ -31,21 +29,7 @@
 
 ---
 
-### 🚧 Current Projects
 
-- 🎯 **Smart India Hackathon 2024 (Ministry of Railways)**  
-  *AI-powered complaint system with NLP, OCR, and predictive analytics.*
-
-- 🧪 **Plant Disease & Soil Classification (CNN, Gradio)**  
-  Classifies diseases and soil types from images with integrated CSV description output.
-
-- 🗺️ **Jetson Orin Navigation UI (Flutter + MQTT + iBeacon)**  
-  Custom mobile interface for embedded robotics and navigation.
-
-- 🧠 **Speech-to-Command AI (RNN + LSTM)**  
-  NLP model converting voice to directional commands like “Forward”, “Stop”.
-
----
 
 ### 📈 GitHub Stats
 
@@ -60,8 +44,10 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samrobinsinghe)
-[![YouTube](https://img.shields.io/badge/YouTube-Dublin%20Diaries-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Dublin_Diaries_Tamil)
-[![Gmail](https://img.shields.io/badge/Gmail-samrobinsinghe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samrobinsinghe@gmail.com)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/samss8764628)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ss8764628)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ss8764628/)
+[![Gmail](https://img.shields.io/badge/Gmail-samrobinsinghe%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ss8764628@gmail.com)
 
 ---
 
