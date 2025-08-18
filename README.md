@@ -5,7 +5,7 @@
 
 ---
 
-### 💡 About Me
+### 💡 About Me 
 
 🎓 B.Tech in **Artificial Intelligence & Data Science**  
 💻 Passionate about **AI/ML**, **Computer Vision**, **LLMs**, **Embedded AI**, and **Smart Systems**  
